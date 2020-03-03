@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/laurelyn
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://laurelyn.github.io
+  * I am laurelyn (https://keybase.io/laurelyn) on keybase.
+  * I have a public key ASCJlGKXiUeK1faEmLj25hLLOJh2A4_KLpSzIcKnig25Uwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f0d3c19face01184dfd8153f299f9dd8a616f2af348d2197d4172382f1b4df560a",
+      "host": "keybase.io",
+      "kid": "01208994629789478ad5f68498b8f6e612cb389876038fca2e94b321c2a78a0db9530a",
+      "uid": "f18728d856bb5d43e65e8ca95316e219",
+      "username": "laurelyn"
+    },
+    "merkle_root": {
+      "ctime": 1581522017,
+      "hash": "97a622253486e3ce8d5c8b03ba19f92074c7eba65e86bc7ea6e72a72b295d2f542399b35f59582a7b71834242822b3fcd8e06d85e99990af9e08b69391dc20d8",
+      "hash_meta": "4f59195ffbae40d9ffb1eea4a0b186631212f0b134106112f216b8f89c5991a7",
+      "seqno": 14581055
+    },
+    "service": {
+      "entropy": "atsGBG9ffqCOGiBDNweh/F2A",
+      "hostname": "laurelyn.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.2.0"
+  },
+  "ctime": 1581522066,
+  "expire_in": 504576000,
+  "prev": "a55a0571019313e572ef9fb5da23a15ca87060d7b46cecc36fca5baab356be69",
+  "seqno": 33,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgiZRil4lHitX2hJi49uYSyziYdgOPyi6UsyHCp4oNuVMKp3BheWxvYWTESpcCIcQgpVoFcQGTE+Vy75+12iOhXKhwYNe0bOzDb8pbqrNWvmnEIM2MVqz93zriLQyp28JRe/YH1HdPWVx1zlvrsSPWE6MxAgHCo3NpZ8RAer3zn6aNjf15dzahkR7fX3LCgkZiCvE28JrA6i8c4X/HgEl5EJZVQVNrO2ZebZwCC2grQQT/oGBaowE9GrDeC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIONvhlLEnBcBWbUb2ZQxYEgV6ezBBvW7cqnty/J+9gewo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/laurelyn
+
+==================================================================
