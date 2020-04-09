@@ -1,4 +1,8 @@
-# Bompstable?
+# Here's the thing. 2020.04.09, 19:01
+
+## Trickle-down economics NEVER worked. All it did was make some people feel superior about their suffering. Companies don't need to eat, people do. Limited liability corporations don't need a roof over their head, people do. Therefore, the job of the government at this moment is to GIVE PEOPLE MONEY. Not companies, not mutual aid associations, not churches, not families, PEOPLE. Am I a whole-assed radical now for following what seems to me like a perfectly logical train of thought to its natural conclusion? (If so, I'm fine with that.)
+
+# Bompstable? 2020, in the before
 
 ## "The glassblower's cat is bompstable," according to Detective Inspector Charles Parker, not yet Chief, awakening from a luxurious but at first fiercely-denied nap in Lord Peter Wimsey's London flat. 
 
