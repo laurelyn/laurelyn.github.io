@@ -1,5 +1,6 @@
 # Professional
-- [laurelyncollins.com](https://www.laurelyncollins.com) forwarded to https://www.linkedin.com/in/laurelyn/
+- [laurelyncollins.com](https://www.laurelyncollins.com) 
+: forwarded to https://www.linkedin.com/in/laurelyn/
 - [laurelyncollins.us](https://www.laurelyncollins.us) forwarded to https://about.me/laurelyn
 
 # Community Groups
